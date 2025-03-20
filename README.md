@@ -1,19 +1,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkv&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkv" /> </p>
 
-- 👋 I'm a 4th year **CS undergraduate at BIT Mesra**.
+- 👋 I'm a **CS undergraduate at BIT Mesra**.
 - 💻 My keen interest's are developing new **Front-end Web Apps**. 
 - 🌱 Currently, I'm learning **backend development**.
 - 📫 You can reach me via email **shubh082002@gmail.com**
 
 ### Social Media
-<a href="https://linkedin.com/in/shubham-kumar-08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-08" height="30" width="40" /></a>
-<a href="https://twitter.com/imshubh_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imshubh_08" height="30" width="40" /></a>
-<a href="https://instagram.com/shubh.kumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh.kumar_" height="30" width="40" /></a>
+<a href="https://twitter.com/hii_lets_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imshubh_08" height="30" width="40" /></a>
+<a href="https://instagram.com/hii_lets_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh.kumar_" height="30" width="40" /></a>
 
 ### Coding Profiles
 <a href="https://www.leetcode.com/say_hii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="say_hii" height="30" width="40" /></a>
