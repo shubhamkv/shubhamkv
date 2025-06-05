@@ -2,13 +2,11 @@
 
 # Hi there! 👋 I'm Shubham Kumar
 
-### 🚀 Full Stack Developer | Problem Solver | CS Undergraduate
+###  Full Stack Developer | Problem Solver | CS Undergraduate
 
-<img src="https://komarev.com/ghpvc/?username=shubhamkv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img width="200px" src="https://komarev.com/ghpvc/?username=shubhamkv&&style=for-the-badge" alt="Profile Views" />
 
 </div>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -17,8 +15,6 @@
 - 🌱 Currently exploring **advanced backend communication** and **DevOps practices**
 - 🔍 Always eager to **solve real-world problems** through technology
 - 📧 Reach out to me: **shubh082002@gmail.com**
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -56,8 +52,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <div align="left">
@@ -86,22 +80,25 @@
 
 </div>
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamkv&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkv&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkv&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkv&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+</div>
+
+## 🎯 Current Focus
+
+- 🔧 Building **robust backend systems** with Node.js and Express
+- 🚀 Learning **containerization** with **Docker**
+- ☁️ Exploring **cloud technologies** and **microservices architecture**
+- 📱 Learning and developing **responsive web applications** with **Next.js** and Tailwind CSS
 
 ---
 
 <div align="center">
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
+<strong>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</strong> 🚀
 </div>
