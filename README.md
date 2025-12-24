@@ -14,7 +14,7 @@
 - 💡 Passionate about **writing clean code**, **optimizing performance**, and **building scalable web applications**
 - 🌱 Currently exploring **advanced backend communication** and **DevOps practices**
 - 🔍 Always eager to **solve real-world problems** through technology
-- 📧 Reach out to me: **shubh082002@gmail.com**
+- 📧 Reach out to me: **kumar.shubhamverma08@gmail.com**
 
 ## 🛠️ Tech Stack & Tools
 
